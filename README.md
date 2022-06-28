@@ -1,2 +1,8 @@
-eu sou o Nicolas e estou começando a aprender a usar o programa JavaScript/Alura!!
-![](
+meu nome é **Nicolas Berger**
+estou aprendendo a programar em
+> JavaScript
+
+Tenho 
+> 15 anos
+Javascript
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
